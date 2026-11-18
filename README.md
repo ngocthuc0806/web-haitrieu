@@ -1,5 +1,5 @@
-# Website Hải Triều — bản dựng chạy trong VS Code
-
+# Website Giới Thiệu Dịch Vụ Sự Kiện Hải Triều
+https://ngocthuc0806.github.io/web-haitrieu/
 Đây là website tĩnh gồm trang chủ và các trang riêng cho Sản phẩm, Khách hàng, Giới thiệu và Liên hệ. Các liên kết ở thanh menu mở trang tương ứng; từng danh mục sản phẩm có địa chỉ riêng qua tham số trên trang sản phẩm.
 
 ## Cách mở và chạy
